@@ -291,3 +291,10 @@
 [05:02:29] [Async Chat Thread - #1/INFO]: <Mazzuworld> Epa y el voice chat?
 [05:06:20] [Server thread/INFO]: BionART issued server command: /home
 [05:06:28] [Server thread/INFO]: Mazzuworld issued server command: /home
+[05:10:02] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[05:10:02] [Server thread/INFO]: Mazzuworld was slain by Enderman
+[05:10:12] [Server thread/WARN]: Mazzuworld moved too quickly! -8.255842529028747,5.001335979112142,2.8893252289280102
+[05:10:18] [Server thread/INFO]: Mazzuworld was slain by BionART
+[05:12:29] [Server thread/INFO]: Mazzuworld issued server command: /home exp
+[05:12:41] [Server thread/INFO]: BionART issued server command: /home sp
+[05:17:28] [Server thread/INFO]: Mazzuworld issued server command: /home
