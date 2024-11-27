@@ -288,3 +288,5 @@
 [02:07:16] [User Authenticator #0/INFO]: UUID of player BionART is 295d9a43-d822-4f0f-8975-5c28c1a64cff
 [02:07:18] [Server thread/INFO]: BionART joined the game
 [02:07:18] [Server thread/INFO]: BionART[/127.209.99.56:49231] logged in with entity id 97 at ([world]-22.179882020117308, 78.0, 48.05795051627189)
+[02:18:23] [Server thread/INFO]: BionART issued server command: /homes
+[02:18:23] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
