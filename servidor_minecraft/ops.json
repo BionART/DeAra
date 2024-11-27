@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "295d9a43-d822-4f0f-8975-5c28c1a64cff",
+    "name": "BionART",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

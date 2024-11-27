@@ -309,3 +309,63 @@
 [03:26:47] [luckperms-command-executor/INFO]: +  silkspawners.free (true)
 [03:26:47] [luckperms-command-executor/INFO]: +  silkspawners.explodedrop (true)
 [03:26:47] [luckperms-command-executor/INFO]: +  silkspawners.destroydrop (true)
+[03:28:13] [luckperms-command-executor/INFO]: [LP] The changes received from the web editor are based on an initial session which has already been applied!
+[03:28:13] [luckperms-command-executor/INFO]: [LP] To avoid conflicts, you should never re-use the same editor session after the changes from it have been applied once already.
+[03:28:13] [luckperms-command-executor/INFO]: [LP] To ignore this warning and apply the changes anyway, run: /lp applyedits Rq4r5eYJ00 --force
+[03:28:18] [luckperms-command-executor/INFO]: [LP] Preparing a new editor session, please wait...
+[03:28:19] [luckperms-command-executor/INFO]: [LP] Click the link below to open the editor:
+[03:28:19] [luckperms-command-executor/INFO]: https://luckperms.net/editor/faPoZTonoJ
+[03:28:25] [luckperms-worker-3/INFO]: [LP] Editor window connected successfully.
+[03:28:52] [Server thread/INFO]: Made BionART a server operator
+[03:28:58] [Server thread/INFO]: BionART issued server command: /lp reloadconfig
+[03:29:01] [Server thread/INFO]: BionART lost connection: Disconnected
+[03:29:01] [Server thread/INFO]: BionART left the game
+[03:29:10] [Server thread/INFO]: Unknown or incomplete command, see below for error
+restar<--[HERE]
+[03:29:16] [Server thread/INFO]: [STDOUT] [org.spigotmc.RestartCommand] Startup script './start.sh' does not exist! Stopping server.
+[03:29:16] [Server thread/INFO]: Stopping server
+[03:29:16] [Server thread/INFO]: [Shopkeepers] Disabling Shopkeepers v2.23.1
+[03:29:16] [Server thread/INFO]: [SilkSpawners] Disabling SilkSpawners v8.1.0
+[03:29:16] [Server thread/INFO]: [Essentials] Disabling Essentials v2.20.1
+[03:29:16] [Server thread/INFO]: [Minepacks] Disabling Minepacks v2.4.31.4-T20240629215752
+[03:29:17] [Server thread/INFO]: [at.pcgamingfreaks.MinepacksStandalone.libs.com.zaxxer.hikari.HikariDataSource] Minepacks-Connection-Pool - Shutdown initiated...
+[03:29:17] [Server thread/INFO]: [at.pcgamingfreaks.MinepacksStandalone.libs.com.zaxxer.hikari.HikariDataSource] Minepacks-Connection-Pool - Shutdown completed.
+[03:29:17] [Server thread/INFO]: [Minepacks]  Minepacks has been disabled.  :( 
+[03:29:17] [Server thread/INFO]: [SimpleTpa] Disabling SimpleTpa v7.3
+[03:29:17] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
+[03:29:17] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been disabled on version 7.3
+[03:29:17] [Server thread/INFO]: [TreeAssist] Disabling TreeAssist v7.3.27
+[03:29:17] [Server thread/INFO]: [SuperEnchants] Disabling SuperEnchants v2.6.7
+[03:29:17] [Server thread/INFO]: [ClearLag] Disabling ClearLag v3.2.2
+[03:29:17] [Server thread/INFO]: [ClearLag] Clearlag is now disabled!
+[03:29:17] [Server thread/INFO]: [DeadChest] Disabling DeadChest v4.21.1
+[03:29:17] [Server thread/INFO]: [UltraSetHome] Disabling UltraSetHome v1.7.9
+[03:29:17] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.131
+[03:29:17] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[03:29:17] [Server thread/INFO]: [LuckPerms] Closing storage...
+[03:29:17] [Server thread/INFO]: [LuckPerms] Goodbye!
+[03:29:17] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.12+829a4a4
+[03:29:17] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
+[03:29:17] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.3.8+6939-7d32b45
+[03:29:17] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[03:29:17] [Server thread/INFO]: Saving players
+[03:29:17] [Server thread/INFO]: Saving worlds
+[03:29:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03:29:17] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[03:29:17] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[03:29:17] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[03:29:17] [Server thread/INFO]: [ChunkHolderManager] Saved 37 block chunks, 146 entity chunks, 1 poi chunks in world 'world' in 0.18s
+[03:29:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[03:29:17] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[03:29:17] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[03:29:17] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[03:29:18] [Server thread/INFO]: [ChunkHolderManager] Saved 583 block chunks, 4 entity chunks, 0 poi chunks in world 'world_nether' in 0.41s
+[03:29:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[03:29:18] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[03:29:18] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[03:29:18] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[03:29:18] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[03:29:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:29:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:29:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:29:18] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
