@@ -303,3 +303,27 @@
 [05:19:57] [Server thread/INFO]: BionART issued server command: /home sp
 [05:21:57] [Server thread/INFO]: BionART has completed the challenge [It Spreads]
 [05:22:02] [Async Chat Thread - #3/INFO]: <BionART> a
+[05:28:08] [Server thread/INFO]: Mazzuworld has completed the challenge [It Spreads]
+[05:29:54] [Server thread/INFO]: BionART has made the advancement [Tactical Fishing]
+[05:31:14] [Server thread/INFO]: BionART issued server command: /home
+[05:31:59] [Server thread/INFO]: Mazzuworld issued server command: /home
+[05:32:27] [Server thread/INFO]: BionART issued server command: /repair
+[05:32:39] [Server thread/INFO]: BionART issued server command: /repair
+[05:32:47] [Server thread/INFO]: BionART issued server command: /repair
+[05:32:55] [Server thread/INFO]: BionART was slain by Mazzuworld
+[05:33:04] [Async Chat Thread - #5/INFO]: <Mazzuworld> habla
+[05:33:17] [Async Chat Thread - #6/INFO]: <BionART> aaaaaaaaaaaaaaaaaaaa
+[05:33:20] [Async Chat Thread - #6/INFO]: <BionART> voy
+[05:33:21] [Server thread/INFO]: BionART lost connection: Disconnected
+[05:33:22] [Server thread/INFO]: BionART left the game
+[05:33:24] [Async Chat Thread - #6/INFO]: <Mazzuworld> :v?
+[05:34:07] [User Authenticator #2/INFO]: UUID of player BionART is 295d9a43-d822-4f0f-8975-5c28c1a64cff
+[05:34:08] [Server thread/INFO]: BionART joined the game
+[05:34:08] [Server thread/INFO]: BionART[/127.209.99.56:60763] logged in with entity id 6876 at ([world]-6.024345714939805, 72.0, 4.300232480739654)
+[05:36:11] [Async Chat Thread - #7/INFO]: <Mazzuworld> te escucho
+[05:36:48] [Server thread/INFO]: BionART issued server command: /repair
+[05:37:08] [Server thread/INFO]: Mazzuworld was slain by BionART
+[05:37:12] [Server thread/INFO]: BionART issued server command: /home
+[05:37:18] [Server thread/INFO]: BionART issued server command: /home
+[05:37:20] [Server thread/INFO]: BionART issued server command: /repair
+[05:37:21] [Server thread/INFO]: Mazzuworld issued server command: /home
