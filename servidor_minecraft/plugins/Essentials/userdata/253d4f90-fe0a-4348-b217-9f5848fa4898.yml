@@ -16,18 +16,18 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1732688455751
+  logout: 1732690831858
   login: 1732688709605
 money: '0'
 last-account-name: Mazzuworld
 logoutlocation:
   world: 8ae690a5-1b18-4c14-8bd4-ca1d0b687278
   world-name: world
-  x: -10.352585444567639
-  y: 73.00133597911214
-  z: 41.785232686191556
-  yaw: 110.724853515625
-  pitch: 28.416044235229492
+  x: -4.790837863292097
+  y: 72.375
+  z: 17.56014663221872
+  yaw: 121.19979858398438
+  pitch: -13.799966812133789
 lastlocation:
   world: 8ae690a5-1b18-4c14-8bd4-ca1d0b687278
   world-name: world

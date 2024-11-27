@@ -324,3 +324,68 @@
 [06:51:50] [Server thread/INFO]: BionART issued server command: /gamemode survival
 [06:53:10] [Server thread/INFO]: BionART issued server command: /gamemode spectator
 [06:53:12] [Server thread/INFO]: BionART issued server command: /gamemode creative
+[06:53:42] [Server thread/INFO]: BionART issued server command: /gamemode survival
+[06:53:45] [Server thread/INFO]: BionART issued server command: /home
+[06:54:05] [Server thread/INFO]: Mazzuworld was shot by BionART
+[06:54:22] [Server thread/INFO]: Mazzuworld was shot by Skeleton
+[06:54:25] [Server thread/INFO]: Mazzuworld issued server command: /home
+[06:54:54] [Server thread/INFO]: BionART issued server command: /home
+[06:55:16] [Server thread/INFO]: BionART issued server command: /home
+[06:57:39] [Server thread/INFO]: Mazzuworld was blown up by Creeper
+[06:57:55] [Server thread/INFO]: Mazzuworld issued server command: /home
+[06:58:13] [Server thread/INFO]: BionART issued server command: /home
+[06:58:15] [Server thread/INFO]: Mazzuworld issued server command: /home
+[06:59:34] [Server thread/INFO]: Named entity Wolf['Bomboclat'/139, uuid='e393bf19-d2a2-42d7-8974-8d8fd367a0a5', l='ServerLevel[world]', x=-4.41, y=73.00, z=14.09, cpos=[-1, 0], tl=804919, v=true] died: Bomboclat was blown up by BionART
+[06:59:34] [Server thread/INFO]: Mazzuworld was blown up by BionART
+[06:59:34] [Server thread/INFO]: BionART was blown up by BionART
+[07:00:26] [Server thread/INFO]: BionART lost connection: Disconnected
+[07:00:26] [Server thread/INFO]: BionART left the game
+[07:00:31] [Server thread/INFO]: Mazzuworld lost connection: Disconnected
+[07:00:31] [Server thread/INFO]: Mazzuworld left the game
+[07:02:49] [Server thread/INFO]: Stopping the server
+[07:02:49] [Server thread/INFO]: Stopping server
+[07:02:49] [Server thread/INFO]: [Shopkeepers] Disabling Shopkeepers v2.23.1
+[07:02:49] [Server thread/INFO]: [SilkSpawners] Disabling SilkSpawners v8.1.0
+[07:02:49] [Server thread/INFO]: [Essentials] Disabling Essentials v2.20.1
+[07:02:49] [Server thread/INFO]: [Minepacks] Disabling Minepacks v2.4.31.4-T20240629215752
+[07:02:50] [Server thread/INFO]: [at.pcgamingfreaks.MinepacksStandalone.libs.com.zaxxer.hikari.HikariDataSource] Minepacks-Connection-Pool - Shutdown initiated...
+[07:02:50] [Server thread/INFO]: [at.pcgamingfreaks.MinepacksStandalone.libs.com.zaxxer.hikari.HikariDataSource] Minepacks-Connection-Pool - Shutdown completed.
+[07:02:50] [Server thread/INFO]: [Minepacks]  Minepacks has been disabled.  :( 
+[07:02:50] [Server thread/INFO]: [SimpleTpa] Disabling SimpleTpa v7.3
+[07:02:50] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
+[07:02:50] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been disabled on version 7.3
+[07:02:50] [Server thread/INFO]: [TreeAssist] Disabling TreeAssist v7.3.27
+[07:02:50] [Server thread/INFO]: [SuperEnchants] Disabling SuperEnchants v2.6.7
+[07:02:50] [Server thread/INFO]: [ClearLag] Disabling ClearLag v3.2.2
+[07:02:50] [Server thread/INFO]: [ClearLag] Clearlag is now disabled!
+[07:02:50] [Server thread/INFO]: [DeadChest] Disabling DeadChest v4.21.1
+[07:02:50] [Server thread/INFO]: [UltraSetHome] Disabling UltraSetHome v1.7.9
+[07:02:50] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.131
+[07:02:50] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[07:02:50] [Server thread/INFO]: [LuckPerms] Closing storage...
+[07:02:50] [Server thread/INFO]: [LuckPerms] Goodbye!
+[07:02:50] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.12+829a4a4
+[07:02:50] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
+[07:02:50] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.3.8+6939-7d32b45
+[07:02:50] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[07:02:50] [Server thread/INFO]: Saving players
+[07:02:50] [Server thread/INFO]: Saving worlds
+[07:02:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[07:02:50] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[07:02:50] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[07:02:50] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[07:02:50] [Server thread/INFO]: [ChunkHolderManager] Saved 22 block chunks, 148 entity chunks, 0 poi chunks in world 'world' in 0.14s
+[07:02:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[07:02:50] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[07:02:50] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[07:02:50] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[07:02:50] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 2 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[07:02:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[07:02:50] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[07:02:50] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[07:02:50] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[07:02:50] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[07:02:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07:02:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07:02:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07:02:50] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
