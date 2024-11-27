@@ -1,393 +1,300 @@
-[04:57:41] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
-[04:57:41] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) for Minecraft 1.21.1
-[04:57:45] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[04:57:49] [ServerMain/INFO]: [PluginInitializerManager] Initialized 13 plugins
-[04:57:49] [ServerMain/INFO]: [PluginInitializerManager] Paper plugins (2):
+[06:23:17] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
+[06:23:17] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) for Minecraft 1.21.1
+[06:23:17] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[06:23:19] [ServerMain/INFO]: [PluginInitializerManager] Initialized 13 plugins
+[06:23:19] [ServerMain/INFO]: [PluginInitializerManager] Paper plugins (2):
  - Minepacks (2.4.31.4-T20240629215752), SuperEnchants (2.6.7)
-[04:57:49] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (11):
+[06:23:19] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (11):
  - ClearLag (3.2.2), DeadChest (4.21.1), Essentials (2.20.1), LuckPerms (5.4.131), Shopkeepers (2.23.1), SilkSpawners (8.1.0), SimpleTpa (7.3), TreeAssist (7.3.27), UltraSetHome (1.7.9), WorldEdit (7.3.8+6939-7d32b45), WorldGuard (7.0.12+829a4a4)
-[04:58:01] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[04:58:07] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Blindness' registered successfully.
-[04:58:07] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'HealthSteal' registered successfully.
-[04:58:07] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Bleed' registered successfully.
-[04:58:07] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Lightning' registered successfully.
-[04:58:07] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Teleport' registered successfully.
-[04:58:07] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Jetpack' registered successfully.
-[04:58:07] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Explosive' registered successfully.
-[04:58:07] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Excavator' registered successfully.
-[04:58:07] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Autosmelt' registered successfully.
-[04:58:07] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Freeze' registered successfully.
-[04:58:07] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Confusion' registered successfully.
-[04:58:07] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Multishoot' registered successfully.
-[04:58:07] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Dash' registered successfully.
-[04:58:07] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Bloodlust' registered successfully.
-[04:58:07] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Shockwave' registered successfully.
-[04:58:07] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Veinminer' registered successfully.
-[04:58:07] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'XPBoost' registered successfully.
-[04:58:07] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Enlightened' registered successfully.
-[04:58:07] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'EnderAura' registered successfully.
-[04:58:07] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Frostbite' registered successfully.
-[04:58:07] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Leap' registered successfully.
-[04:58:07] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Speed' registered successfully.
-[04:58:07] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Magnet' registered successfully.
-[04:58:07] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Growth' registered successfully.
-[04:58:07] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Detonate' registered successfully.
-[04:58:07] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Backstabber' registered successfully.
-[04:58:07] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Piercing' registered successfully.
-[04:58:07] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Deflecting' registered successfully.
-[04:58:07] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Bait' registered successfully.
-[04:58:07] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Angler' registered successfully.
-[04:58:07] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Abiding' registered successfully.
-[04:58:07] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Disarm' registered successfully.
-[04:58:07] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Archer' registered successfully.
-[04:58:07] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Farmer' registered successfully.
-[04:58:07] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Decapitation' registered successfully.
-[04:58:07] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Dismantle' registered successfully.
-[04:58:07] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Famine' registered successfully.
-[04:58:07] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Spotlight' registered successfully.
-[04:58:07] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Feast' registered successfully.
-[04:58:07] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Updraft' registered successfully.
-[04:58:07] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Lavawalker' registered successfully.
-[04:58:07] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Doublestrike' registered successfully.
-[04:58:07] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Timber' registered successfully.
-[04:58:07] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Missile' registered successfully.
-[04:58:07] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Critical' registered successfully.
-[04:58:07] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Inflame' registered successfully.
-[04:58:07] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Nightowl' registered successfully.
-[04:58:07] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Headshot' registered successfully.
-[04:58:07] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'ArrowStorm' registered successfully.
-[04:58:07] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Hook' registered successfully.
-[04:58:07] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Gravity' registered successfully.
-[04:58:07] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Adrenaline' registered successfully.
-[04:58:07] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Resilience' registered successfully.
-[04:58:07] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Coward' registered successfully.
-[04:58:07] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Weaken' registered successfully.
-[04:58:07] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Withering' registered successfully.
-[04:58:07] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Heavy' registered successfully.
-[04:58:07] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Lightweight' registered successfully.
-[04:58:07] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Blastoff' registered successfully.
-[04:58:07] [ServerMain/INFO]: [SuperEnchants] All custom enchantments registered successfully!
-[04:58:09] [ServerMain/INFO]: Loaded 1290 recipes
-[04:58:09] [ServerMain/INFO]: Loaded 1399 advancements
-[04:58:10] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[04:58:10] [Server thread/INFO]: Loading properties
-[04:58:10] [Server thread/INFO]: This server is running Paper version 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
-[04:58:11] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[04:58:11] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[04:58:11] [Server thread/INFO]: Using 4 threads for Netty based IO
-[04:58:11] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
-[04:58:12] [Server thread/INFO]: Default game type: SURVIVAL
-[04:58:12] [Server thread/INFO]: Generating keypair
-[04:58:13] [Server thread/INFO]: Starting Minecraft server on *:25565
-[04:58:13] [Server thread/INFO]: Using epoll channel type
-[04:58:13] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[04:58:13] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[04:58:14] [Server thread/INFO]: [Minepacks] PCGF-PluginLib not installed. Switching to standalone mode!
-[04:58:18] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.3.8+6939-7d32b45
-[04:58:23] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@744fe337]
-[04:58:23] [Server thread/INFO]: [WorldGuard] Loading server plugin WorldGuard v7.0.12+829a4a4
-[04:58:23] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.131
-[04:58:24] [Server thread/INFO]: [UltraSetHome] Loading server plugin UltraSetHome v1.7.9
-[04:58:24] [Server thread/INFO]: [DeadChest] Loading server plugin DeadChest v4.21.1
-[04:58:24] [Server thread/INFO]: [DeadChest] Worldguard support disabled by user
-[04:58:24] [Server thread/INFO]: [ClearLag] Loading server plugin ClearLag v3.2.2
-[04:58:24] [Server thread/INFO]: [SuperEnchants] Loading server plugin SuperEnchants v2.6.7
-[04:58:24] [Server thread/INFO]: [TreeAssist] Loading server plugin TreeAssist v7.3.27
-[04:58:24] [Server thread/INFO]: [TreeAssist] Loading main config file: /config.yml
-[04:58:24] [Server thread/WARN]: [TreeAssist] Invalid Material in TreeConfig default.yml - Node Natural Blocks entry invalid: minecraft:grass
-[04:58:25] [Server thread/INFO]: [SimpleTpa] Loading server plugin SimpleTpa v7.3
-[04:58:25] [Server thread/INFO]: [Minepacks] Loading server plugin Minepacks v2.4.31.4-T20240629215752
-[04:58:25] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.20.1
-[04:58:25] [Server thread/INFO]: [SilkSpawners] Loading server plugin SilkSpawners v8.1.0
-[04:58:25] [Server thread/INFO]: [Shopkeepers] Loading server plugin Shopkeepers v2.23.1
-[04:58:27] [Server thread/INFO]: [Shopkeepers] Loaded all plugin classes (2694 ms).
-[04:58:28] [Server thread/INFO]: [Shopkeepers] Loading config.
-[04:58:28] [Server thread/INFO]: [Shopkeepers] Loading language file: language-en-default.yml
-[04:58:28] [Server thread/INFO]: [Shopkeepers] Registering WorldGuard flag 'allow-shop'.
-[04:58:28] [Server thread/INFO]: [Shopkeepers] Registering defaults.
-[04:58:28] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[04:58:28] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.3.8+6939-7d32b45
-[04:58:28] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
-[04:58:28] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
-[04:58:30] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_21.PaperweightAdapter as the Bukkit adapter
-[04:58:34] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.131
-[04:58:35] [Server thread/INFO]:         __    
-[04:58:35] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.131
-[04:58:35] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
-[04:58:35] [Server thread/INFO]: 
-[04:58:35] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[04:58:35] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
-[04:58:37] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[04:58:37] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[04:58:37] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 3205ms)
-[04:58:37] [Server thread/INFO]: [SuperEnchants] Enabling SuperEnchants v2.6.7
-[04:58:37] [Server thread/INFO]: [SuperEnchants] Loading SuperEnchants v2.6.7 by Aznos
-[04:58:37] [Server thread/INFO]: [SuperEnchants] -------------------------------------
-[04:58:37] [Server thread/INFO]: [SuperEnchants] If you'd like to support SuperEnchants and you find it useful, please consider donating at: https://buymeacoffee.com/aznos
-[04:58:37] [Server thread/INFO]: [SuperEnchants] -------------------------------------
-[04:58:37] [Server thread/INFO]: [SuperEnchants] Disregard any potential warnings above, they are not errors and your plugin will work as intended.
-[04:58:38] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[04:58:38] [Server thread/WARN]: Nag author(s): '[]' of 'SuperEnchants v2.6.7' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
-[04:58:38] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[04:58:38] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[04:58:38] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[04:58:38] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[04:58:38] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[04:58:38] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[04:58:38] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[04:58:38] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[04:58:38] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[04:58:38] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[04:58:38] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[04:58:38] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[04:58:38] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[04:58:38] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[04:58:38] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[04:58:38] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[04:58:38] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[04:58:38] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[04:58:38] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[04:58:38] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[04:58:38] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[04:58:38] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[04:58:38] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[04:58:38] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[04:58:38] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[04:58:38] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[04:58:38] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[04:58:38] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[04:58:38] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[04:58:38] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[04:58:38] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[04:58:38] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[04:58:38] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[04:58:38] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[04:58:38] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[04:58:38] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[04:58:38] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[04:58:38] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[04:58:38] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[04:58:38] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[04:58:38] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[04:58:38] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[04:58:38] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[04:58:38] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[04:58:38] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[04:58:38] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[04:58:38] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[04:58:38] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[04:58:38] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[04:58:38] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[04:58:38] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[04:58:38] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[04:58:38] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[04:58:38] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[04:58:38] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[04:58:38] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[04:58:38] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[04:58:38] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
-[04:58:38] [Server thread/WARN]: [SuperEnchants] Could not save lang_en.yml to plugins/SuperEnchants/lang_en.yml because lang_en.yml already exists.
-[04:58:38] [Server thread/WARN]: [SuperEnchants] Could not save lang_de.yml to plugins/SuperEnchants/lang_de.yml because lang_de.yml already exists.
-[04:58:38] [Server thread/WARN]: [SuperEnchants] Could not save lang_pt.yml to plugins/SuperEnchants/lang_pt.yml because lang_pt.yml already exists.
-[04:58:38] [Server thread/WARN]: [SuperEnchants] Could not save lang_es.yml to plugins/SuperEnchants/lang_es.yml because lang_es.yml already exists.
-[04:58:38] [Server thread/WARN]: [SuperEnchants] Could not save lang_fr.yml to plugins/SuperEnchants/lang_fr.yml because lang_fr.yml already exists.
-[04:58:38] [Server thread/WARN]: [SuperEnchants] Could not save lang_nl.yml to plugins/SuperEnchants/lang_nl.yml because lang_nl.yml already exists.
-[04:58:38] [Server thread/INFO]: Preparing level "world"
-[04:58:42] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[04:58:47] [Server thread/INFO]: Time elapsed: 4762 ms
-[04:58:47] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[04:58:48] [Server thread/INFO]: Time elapsed: 879 ms
-[04:58:48] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[04:58:48] [Server thread/INFO]: Time elapsed: 576 ms
-[04:58:48] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.12+829a4a4
-[04:58:49] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
-[04:58:49] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
-[04:58:49] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
-[04:58:49] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
-[04:58:49] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
-[04:58:49] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
-[04:58:49] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
-[04:58:49] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is PERMITTED.
-[04:58:49] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
-[04:58:49] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
-[04:58:49] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
-[04:58:49] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
-[04:58:49] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is PERMITTED.
-[04:58:49] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
-[04:58:49] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
-[04:58:49] [Server thread/INFO]: [WorldGuard] Loading region data...
-[04:58:52] [Server thread/INFO]: [UltraSetHome] Enabling UltraSetHome v1.7.9
-[04:58:55] [Server thread/INFO]: [DeadChest] Enabling DeadChest v4.21.1
-[04:58:55] [Server thread/INFO]: [ClearLag] Enabling ClearLag v3.2.2
-[04:58:55] [Server thread/INFO]: [ClearLag] Using version-adapter: LatestVersionAdapter
-[04:58:56] [Server thread/INFO]: [ClearLag] Loading modules...
-[04:58:56] [Server thread/WARN]: [ClearLag] Clearlag failed to use the internal TPS tracker during initialization. Reverted to estimation... (Index 3 out of bounds for length 3)
-[04:58:56] [Server thread/INFO]: [ClearLag] Modules enabed, loading config values
-[04:58:56] [Server thread/INFO]: [ClearLag] Modules have been loaded!
-[04:58:56] [Server thread/INFO]: [ClearLag] Clearlag is now enabled!
-[04:58:56] [Server thread/INFO]: [TreeAssist] Enabling TreeAssist v7.3.27
-[04:58:56] [Thread-13/WARN]: [ClearLag] Clearlag failed to check for updates - bukkit may be down
-[04:58:56] [Thread-13/WARN]: java.lang.ArrayIndexOutOfBoundsException: Index 3 out of bounds for length 3
-[04:58:56] [Thread-13/WARN]: 	at Clearlag.jar//me.minebuilders.clearlag.Util.getBukkitVersion(Util.java:105)
-[04:58:56] [Thread-13/WARN]: 	at Clearlag.jar//me.minebuilders.clearlag.BukkitUpdater.updateAvailable(BukkitUpdater.java:32)
-[04:58:56] [Thread-13/WARN]: 	at Clearlag.jar//me.minebuilders.clearlag.BukkitUpdater.run(BukkitUpdater.java:82)
-[04:58:56] [Thread-13/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
-[04:58:56] [Server thread/INFO]: [TreeAssist] sending full Metrics! You can deactivate this in the config.yml
-[04:58:56] [Server thread/INFO]: [TreeAssist] debugging: off
-[04:58:56] [Thread-14/INFO]: [TreeAssist] Checking for updates...
-[04:58:56] [Server thread/INFO]: [SimpleTpa] Enabling SimpleTpa v7.3
-[04:58:56] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
-[04:58:56] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been enabled on version 7.3
-[04:58:56] [Server thread/INFO]: Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
-[04:58:56] [Server thread/INFO]: [Minepacks] Enabling Minepacks v2.4.31.4-T20240629215752
-[04:58:56] [Server thread/INFO]: [Minepacks] Starting Minepacks in standalone mode!
-[04:58:57] [Server thread/INFO]: [Minepacks] Config file successfully loaded.
-[04:58:58] [Server thread/WARN]: [Minepacks] Paper support is experimental! Use at your own risk!
-[04:58:58] [Server thread/WARN]: [Minepacks] No guarantee for data integrity! Backup constantly!
-[04:58:58] [Server thread/INFO]: [Minepacks] Language file successfully loaded. Language: english  Author: GeorgH93
-[04:58:58] [Server thread/INFO]: [at.pcgamingfreaks.MinepacksStandalone.libs.com.zaxxer.hikari.HikariDataSource] Minepacks-Connection-Pool - Starting...
-[04:58:58] [Server thread/INFO]: [at.pcgamingfreaks.MinepacksStandalone.libs.com.zaxxer.hikari.HikariDataSource] Minepacks-Connection-Pool - Start completed.
-[04:58:58] [Server thread/INFO]: [Minepacks] Item name language file successfully loaded. Language: english  Author: GeorgH93
-[04:58:58] [Server thread/INFO]: [Minepacks] Loading item translations ...
-[04:58:58] [Server thread/INFO]: [Minepacks] Finished loading item translations for 826 items.
-[04:58:59] [Server thread/INFO]: [Minepacks]  Minepacks has been enabled!  :) 
-[04:58:59] [Server thread/INFO]: [Essentials] Enabling Essentials v2.20.1
-[04:58:59] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
-[04:59:01] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
-[04:59:01] [Server thread/INFO]: [Essentials] No kits found to migrate.
-[04:59:02] [Server thread/INFO]: [Essentials] Loaded 39094 items from items.json.
-[04:59:02] [Server thread/INFO]: [Essentials] Using locale en
-[04:59:03] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
-[04:59:03] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
-[04:59:03] [Server thread/INFO]: [UltraSetHome] Essentials hooked successfully.
-[04:59:03] [Server thread/WARN]: [Essentials] Detected supported permissions plugin LuckPerms without Vault installed.
-[04:59:03] [Server thread/WARN]: [Essentials] Features such as chat prefixes/suffixes and group-related functionality will not work until you install Vault.
-[04:59:03] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
-[04:59:03] [Server thread/INFO]: [SilkSpawners] Enabling SilkSpawners v8.1.0
-[04:59:04] [Server thread/INFO]: [SilkSpawners] WorldGuard was found and support is enabled
-[04:59:04] [Server thread/INFO]: [SilkSpawners] Mimic was not found and support is disabled
-[04:59:04] [Server thread/INFO]: [SilkSpawners] Loading support for v1_21_R1
-[04:59:04] [Server thread/INFO]: [SilkSpawners] AutoUpdater is enabled and now running.
-[04:59:04] [Server thread/INFO]: [SilkSpawners] BarAPI is disabled due to config setting.
-[04:59:04] [Server thread/INFO]: [Shopkeepers] Enabling Shopkeepers v2.23.1
-[04:59:05] [Server thread/INFO]: [spark] Starting background profiler...
-[04:59:06] [Server thread/INFO]: [SuperEnchants] [STDOUT] Registering commands
-[04:59:06] [Server thread/INFO]: Done preparing level "world" (28.475s)
-[04:59:06] [Server thread/INFO]: Running delayed init tasks
-[04:59:06] [Server thread/INFO]: [UltraSetHome] WorldGuard hooked successfully.
-[04:59:06] [Server thread/INFO]: [SilkSpawners] Result from AutoUpdater is: NO_UPDATE
-[04:59:06] [Server thread/INFO]: Done (88.696s)! For help, type "help"
-[04:59:06] [Server thread/INFO]: Timings Reset
-[04:59:06] [Craft Scheduler Thread - 6 - Essentials/INFO]: [Essentials] Fetching version information...
-[04:59:07] [Server thread/INFO]: [UltraSetHome] You are using the latest version of UltraSetHome.
-[04:59:17] [User Authenticator #0/INFO]: UUID of player BionART is 295d9a43-d822-4f0f-8975-5c28c1a64cff
-[04:59:20] [Server thread/INFO]: BionART joined the game
-[04:59:22] [Server thread/INFO]: BionART[/127.209.99.56:36351] logged in with entity id 84 at ([world]-9.336546878920995, 72.375, 17.633268504317325)
-[04:59:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3144ms or 62 ticks behind
-[04:59:33] [Server thread/INFO]: BionART issued server command: /fly
-[05:01:44] [User Authenticator #1/INFO]: UUID of player Mazzuworld is 253d4f90-fe0a-4348-b217-9f5848fa4898
-[05:01:47] [Server thread/INFO]: Mazzuworld joined the game
-[05:01:47] [Server thread/INFO]: Mazzuworld[/127.181.32.128:39309] logged in with entity id 1353 at ([world]-26.95951771303857, 78.0, 39.87434599171172)
-[05:02:29] [Async Chat Thread - #1/INFO]: <Mazzuworld> Epa y el voice chat?
-[05:06:20] [Server thread/INFO]: BionART issued server command: /home
-[05:06:28] [Server thread/INFO]: Mazzuworld issued server command: /home
-[05:10:02] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[05:10:02] [Server thread/INFO]: Mazzuworld was slain by Enderman
-[05:10:12] [Server thread/WARN]: Mazzuworld moved too quickly! -8.255842529028747,5.001335979112142,2.8893252289280102
-[05:10:18] [Server thread/INFO]: Mazzuworld was slain by BionART
-[05:12:29] [Server thread/INFO]: Mazzuworld issued server command: /home exp
-[05:12:41] [Server thread/INFO]: BionART issued server command: /home sp
-[05:17:28] [Server thread/INFO]: Mazzuworld issued server command: /home
-[05:17:31] [Server thread/INFO]: BionART issued server command: /home
-[05:19:49] [Server thread/INFO]: Mazzuworld issued server command: /home exp
-[05:19:57] [Server thread/INFO]: BionART issued server command: /home sp
-[05:21:57] [Server thread/INFO]: BionART has completed the challenge [It Spreads]
-[05:22:02] [Async Chat Thread - #3/INFO]: <BionART> a
-[05:28:08] [Server thread/INFO]: Mazzuworld has completed the challenge [It Spreads]
-[05:29:54] [Server thread/INFO]: BionART has made the advancement [Tactical Fishing]
-[05:31:14] [Server thread/INFO]: BionART issued server command: /home
-[05:31:59] [Server thread/INFO]: Mazzuworld issued server command: /home
-[05:32:27] [Server thread/INFO]: BionART issued server command: /repair
-[05:32:39] [Server thread/INFO]: BionART issued server command: /repair
-[05:32:47] [Server thread/INFO]: BionART issued server command: /repair
-[05:32:55] [Server thread/INFO]: BionART was slain by Mazzuworld
-[05:33:04] [Async Chat Thread - #5/INFO]: <Mazzuworld> habla
-[05:33:17] [Async Chat Thread - #6/INFO]: <BionART> aaaaaaaaaaaaaaaaaaaa
-[05:33:20] [Async Chat Thread - #6/INFO]: <BionART> voy
-[05:33:21] [Server thread/INFO]: BionART lost connection: Disconnected
-[05:33:22] [Server thread/INFO]: BionART left the game
-[05:33:24] [Async Chat Thread - #6/INFO]: <Mazzuworld> :v?
-[05:34:07] [User Authenticator #2/INFO]: UUID of player BionART is 295d9a43-d822-4f0f-8975-5c28c1a64cff
-[05:34:08] [Server thread/INFO]: BionART joined the game
-[05:34:08] [Server thread/INFO]: BionART[/127.209.99.56:60763] logged in with entity id 6876 at ([world]-6.024345714939805, 72.0, 4.300232480739654)
-[05:36:11] [Async Chat Thread - #7/INFO]: <Mazzuworld> te escucho
-[05:36:48] [Server thread/INFO]: BionART issued server command: /repair
-[05:37:08] [Server thread/INFO]: Mazzuworld was slain by BionART
-[05:37:12] [Server thread/INFO]: BionART issued server command: /home
-[05:37:18] [Server thread/INFO]: BionART issued server command: /home
-[05:37:20] [Server thread/INFO]: BionART issued server command: /repair
-[05:37:21] [Server thread/INFO]: Mazzuworld issued server command: /home
-[05:42:03] [Server thread/INFO]: BionART issued server command: /home
-[05:43:45] [Server thread/INFO]: BionART issued server command: /home
-[05:45:05] [Server thread/INFO]: BionART issued server command: /home
-[05:45:05] [Server thread/INFO]: BionART fell from a high place
-[05:45:47] [Server thread/INFO]: BionART issued server command: /home
-[05:49:48] [Server thread/INFO]: BionART issued server command: /home
-[06:04:35] [Server thread/INFO]: BionART issued server command: /gamemode creative
-[06:04:42] [Server thread/INFO]: BionART issued server command: /gamemode survival
-[06:04:43] [Server thread/INFO]: BionART issued server command: /gamemode creative
-[06:04:54] [Server thread/INFO]: BionART issued server command: /gamemode survival
-[06:06:51] [Server thread/INFO]: BionART issued server command: /home
-[06:14:25] [Server thread/INFO]: Mazzuworld has made the advancement [The Cutest Predator]
-[06:17:13] [Server thread/INFO]: Mazzuworld has made the advancement [The Parrots and the Bats]
-[06:20:55] [Server thread/INFO]: Stopping the server
-[06:20:55] [Server thread/INFO]: Stopping server
-[06:20:55] [Server thread/INFO]: [Shopkeepers] Disabling Shopkeepers v2.23.1
-[06:20:55] [Server thread/INFO]: [SilkSpawners] Disabling SilkSpawners v8.1.0
-[06:20:55] [Server thread/INFO]: [Essentials] Disabling Essentials v2.20.1
-[06:20:55] [Server thread/INFO]: [Minepacks] Disabling Minepacks v2.4.31.4-T20240629215752
-[06:20:56] [Server thread/INFO]: [at.pcgamingfreaks.MinepacksStandalone.libs.com.zaxxer.hikari.HikariDataSource] Minepacks-Connection-Pool - Shutdown initiated...
-[06:20:56] [Server thread/INFO]: [at.pcgamingfreaks.MinepacksStandalone.libs.com.zaxxer.hikari.HikariDataSource] Minepacks-Connection-Pool - Shutdown completed.
-[06:20:56] [Server thread/INFO]: [Minepacks]  Minepacks has been disabled.  :( 
-[06:20:56] [Server thread/INFO]: [SimpleTpa] Disabling SimpleTpa v7.3
-[06:20:56] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
-[06:20:56] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been disabled on version 7.3
-[06:20:56] [Server thread/INFO]: [TreeAssist] Disabling TreeAssist v7.3.27
-[06:20:56] [Server thread/INFO]: [SuperEnchants] Disabling SuperEnchants v2.6.7
-[06:20:56] [Server thread/INFO]: [ClearLag] Disabling ClearLag v3.2.2
-[06:20:56] [Server thread/INFO]: [ClearLag] Clearlag is now disabled!
-[06:20:56] [Server thread/INFO]: [DeadChest] Disabling DeadChest v4.21.1
-[06:20:56] [Server thread/INFO]: [UltraSetHome] Disabling UltraSetHome v1.7.9
-[06:20:56] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.131
-[06:20:56] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
-[06:20:56] [Server thread/INFO]: [LuckPerms] Closing storage...
-[06:20:56] [Server thread/INFO]: [LuckPerms] Goodbye!
-[06:20:56] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.12+829a4a4
-[06:20:56] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
-[06:20:56] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.3.8+6939-7d32b45
-[06:20:56] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
-[06:20:56] [Server thread/INFO]: Saving players
-[06:20:56] [Server thread/INFO]: Mazzuworld lost connection: Server closed
-[06:20:56] [Server thread/INFO]: Mazzuworld left the game
-[06:20:56] [Server thread/INFO]: BionART lost connection: Server closed
-[06:20:56] [Server thread/INFO]: BionART left the game
-[06:20:57] [Server thread/INFO]: Saving worlds
-[06:20:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[06:20:57] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[06:20:57] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[06:20:57] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[06:20:57] [Server thread/INFO]: [ChunkHolderManager] Saved 151 block chunks, 186 entity chunks, 0 poi chunks in world 'world' in 0.31s
-[06:20:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[06:20:57] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[06:20:57] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[06:20:57] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[06:20:57] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 2 entity chunks, 0 poi chunks in world 'world_nether' in 0.02s
-[06:20:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[06:20:57] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[06:20:57] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[06:20:57] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[06:20:57] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
-[06:20:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[06:20:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[06:20:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[06:20:57] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[06:23:27] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[06:23:29] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Blindness' registered successfully.
+[06:23:29] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'HealthSteal' registered successfully.
+[06:23:29] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Bleed' registered successfully.
+[06:23:29] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Lightning' registered successfully.
+[06:23:29] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Teleport' registered successfully.
+[06:23:29] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Jetpack' registered successfully.
+[06:23:29] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Explosive' registered successfully.
+[06:23:29] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Excavator' registered successfully.
+[06:23:29] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Autosmelt' registered successfully.
+[06:23:29] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Freeze' registered successfully.
+[06:23:29] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Confusion' registered successfully.
+[06:23:29] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Multishoot' registered successfully.
+[06:23:29] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Dash' registered successfully.
+[06:23:29] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Bloodlust' registered successfully.
+[06:23:29] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Shockwave' registered successfully.
+[06:23:29] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Veinminer' registered successfully.
+[06:23:29] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'XPBoost' registered successfully.
+[06:23:29] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Enlightened' registered successfully.
+[06:23:29] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'EnderAura' registered successfully.
+[06:23:29] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Frostbite' registered successfully.
+[06:23:29] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Leap' registered successfully.
+[06:23:29] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Speed' registered successfully.
+[06:23:29] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Magnet' registered successfully.
+[06:23:29] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Growth' registered successfully.
+[06:23:29] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Detonate' registered successfully.
+[06:23:29] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Backstabber' registered successfully.
+[06:23:29] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Piercing' registered successfully.
+[06:23:29] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Deflecting' registered successfully.
+[06:23:29] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Bait' registered successfully.
+[06:23:29] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Angler' registered successfully.
+[06:23:29] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Abiding' registered successfully.
+[06:23:29] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Disarm' registered successfully.
+[06:23:29] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Archer' registered successfully.
+[06:23:29] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Farmer' registered successfully.
+[06:23:29] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Decapitation' registered successfully.
+[06:23:29] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Dismantle' registered successfully.
+[06:23:29] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Famine' registered successfully.
+[06:23:29] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Spotlight' registered successfully.
+[06:23:29] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Feast' registered successfully.
+[06:23:29] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Updraft' registered successfully.
+[06:23:29] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Lavawalker' registered successfully.
+[06:23:29] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Doublestrike' registered successfully.
+[06:23:29] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Timber' registered successfully.
+[06:23:29] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Missile' registered successfully.
+[06:23:29] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Critical' registered successfully.
+[06:23:29] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Inflame' registered successfully.
+[06:23:29] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Nightowl' registered successfully.
+[06:23:29] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Headshot' registered successfully.
+[06:23:29] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'ArrowStorm' registered successfully.
+[06:23:29] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Hook' registered successfully.
+[06:23:29] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Gravity' registered successfully.
+[06:23:29] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Adrenaline' registered successfully.
+[06:23:29] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Resilience' registered successfully.
+[06:23:29] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Coward' registered successfully.
+[06:23:29] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Weaken' registered successfully.
+[06:23:29] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Withering' registered successfully.
+[06:23:29] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Heavy' registered successfully.
+[06:23:29] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Lightweight' registered successfully.
+[06:23:29] [ServerMain/INFO]: [SuperEnchants] Custom enchantment 'Blastoff' registered successfully.
+[06:23:29] [ServerMain/INFO]: [SuperEnchants] All custom enchantments registered successfully!
+[06:23:30] [ServerMain/INFO]: Loaded 1290 recipes
+[06:23:31] [ServerMain/INFO]: Loaded 1399 advancements
+[06:23:31] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[06:23:31] [Server thread/INFO]: Loading properties
+[06:23:31] [Server thread/INFO]: This server is running Paper version 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
+[06:23:31] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[06:23:31] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[06:23:31] [Server thread/INFO]: Using 4 threads for Netty based IO
+[06:23:32] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[06:23:32] [Server thread/INFO]: Default game type: SURVIVAL
+[06:23:32] [Server thread/INFO]: Generating keypair
+[06:23:32] [Server thread/INFO]: Starting Minecraft server on *:25565
+[06:23:32] [Server thread/INFO]: Using epoll channel type
+[06:23:32] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[06:23:32] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[06:23:33] [Server thread/INFO]: [Minepacks] PCGF-PluginLib not installed. Switching to standalone mode!
+[06:23:35] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.3.8+6939-7d32b45
+[06:23:37] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@60d52afe]
+[06:23:37] [Server thread/INFO]: [WorldGuard] Loading server plugin WorldGuard v7.0.12+829a4a4
+[06:23:37] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.131
+[06:23:38] [Server thread/INFO]: [UltraSetHome] Loading server plugin UltraSetHome v1.7.9
+[06:23:38] [Server thread/INFO]: [DeadChest] Loading server plugin DeadChest v4.21.1
+[06:23:38] [Server thread/INFO]: [DeadChest] Worldguard support disabled by user
+[06:23:38] [Server thread/INFO]: [ClearLag] Loading server plugin ClearLag v3.2.2
+[06:23:38] [Server thread/INFO]: [SuperEnchants] Loading server plugin SuperEnchants v2.6.7
+[06:23:38] [Server thread/INFO]: [TreeAssist] Loading server plugin TreeAssist v7.3.27
+[06:23:38] [Server thread/INFO]: [TreeAssist] Loading main config file: /config.yml
+[06:23:38] [Server thread/WARN]: [TreeAssist] Invalid Material in TreeConfig default.yml - Node Natural Blocks entry invalid: minecraft:grass
+[06:23:39] [Server thread/INFO]: [SimpleTpa] Loading server plugin SimpleTpa v7.3
+[06:23:39] [Server thread/INFO]: [Minepacks] Loading server plugin Minepacks v2.4.31.4-T20240629215752
+[06:23:39] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.20.1
+[06:23:39] [Server thread/INFO]: [SilkSpawners] Loading server plugin SilkSpawners v8.1.0
+[06:23:39] [Server thread/INFO]: [Shopkeepers] Loading server plugin Shopkeepers v2.23.1
+[06:23:40] [Server thread/INFO]: [Shopkeepers] Loaded all plugin classes (1453 ms).
+[06:23:40] [Server thread/INFO]: [Shopkeepers] Loading config.
+[06:23:40] [Server thread/INFO]: [Shopkeepers] Loading language file: language-en-default.yml
+[06:23:40] [Server thread/INFO]: [Shopkeepers] Registering WorldGuard flag 'allow-shop'.
+[06:23:40] [Server thread/INFO]: [Shopkeepers] Registering defaults.
+[06:23:40] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[06:23:40] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.3.8+6939-7d32b45
+[06:23:40] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[06:23:40] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[06:23:41] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_21.PaperweightAdapter as the Bukkit adapter
+[06:23:44] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.131
+[06:23:44] [Server thread/INFO]:         __    
+[06:23:44] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.131
+[06:23:44] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[06:23:44] [Server thread/INFO]: 
+[06:23:44] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[06:23:44] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[06:23:45] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[06:23:46] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[06:23:46] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 2148ms)
+[06:23:46] [Server thread/INFO]: [SuperEnchants] Enabling SuperEnchants v2.6.7
+[06:23:46] [Server thread/INFO]: [SuperEnchants] Loading SuperEnchants v2.6.7 by Aznos
+[06:23:46] [Server thread/INFO]: [SuperEnchants] -------------------------------------
+[06:23:46] [Server thread/INFO]: [SuperEnchants] If you'd like to support SuperEnchants and you find it useful, please consider donating at: https://buymeacoffee.com/aznos
+[06:23:46] [Server thread/INFO]: [SuperEnchants] -------------------------------------
+[06:23:46] [Server thread/INFO]: [SuperEnchants] Disregard any potential warnings above, they are not errors and your plugin will work as intended.
+[06:23:46] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[06:23:46] [Server thread/WARN]: Nag author(s): '[]' of 'SuperEnchants v2.6.7' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
+[06:23:46] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[06:23:46] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[06:23:46] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[06:23:46] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[06:23:46] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[06:23:46] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[06:23:46] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[06:23:46] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[06:23:46] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[06:23:46] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[06:23:46] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[06:23:46] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[06:23:46] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[06:23:46] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[06:23:46] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[06:23:46] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[06:23:46] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[06:23:46] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[06:23:46] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[06:23:46] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[06:23:46] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[06:23:46] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[06:23:46] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[06:23:46] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[06:23:46] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[06:23:46] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[06:23:46] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[06:23:46] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[06:23:46] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[06:23:46] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[06:23:46] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[06:23:46] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[06:23:46] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[06:23:46] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[06:23:46] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[06:23:46] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[06:23:46] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[06:23:46] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[06:23:46] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[06:23:46] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[06:23:46] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[06:23:46] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[06:23:46] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[06:23:46] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[06:23:46] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[06:23:46] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[06:23:46] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[06:23:46] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[06:23:46] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[06:23:46] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[06:23:46] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[06:23:46] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[06:23:46] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[06:23:46] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[06:23:46] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[06:23:46] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[06:23:46] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[06:23:46] [Server thread/INFO]: [SuperEnchants] [STDOUT] 
+[06:23:46] [Server thread/WARN]: [SuperEnchants] Could not save lang_en.yml to plugins/SuperEnchants/lang_en.yml because lang_en.yml already exists.
+[06:23:46] [Server thread/WARN]: [SuperEnchants] Could not save lang_de.yml to plugins/SuperEnchants/lang_de.yml because lang_de.yml already exists.
+[06:23:46] [Server thread/WARN]: [SuperEnchants] Could not save lang_pt.yml to plugins/SuperEnchants/lang_pt.yml because lang_pt.yml already exists.
+[06:23:46] [Server thread/WARN]: [SuperEnchants] Could not save lang_es.yml to plugins/SuperEnchants/lang_es.yml because lang_es.yml already exists.
+[06:23:46] [Server thread/WARN]: [SuperEnchants] Could not save lang_fr.yml to plugins/SuperEnchants/lang_fr.yml because lang_fr.yml already exists.
+[06:23:46] [Server thread/WARN]: [SuperEnchants] Could not save lang_nl.yml to plugins/SuperEnchants/lang_nl.yml because lang_nl.yml already exists.
+[06:23:46] [Server thread/INFO]: Preparing level "world"
+[06:23:48] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[06:23:51] [Server thread/INFO]: Time elapsed: 2410 ms
+[06:23:51] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[06:23:51] [Server thread/INFO]: Time elapsed: 482 ms
+[06:23:51] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[06:23:52] [Server thread/INFO]: Time elapsed: 282 ms
+[06:23:52] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.12+829a4a4
+[06:23:53] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[06:23:53] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[06:23:53] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
+[06:23:53] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[06:23:53] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[06:23:53] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[06:23:53] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[06:23:53] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is PERMITTED.
+[06:23:53] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[06:23:53] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[06:23:53] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[06:23:53] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[06:23:53] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is PERMITTED.
+[06:23:53] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[06:23:53] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[06:23:53] [Server thread/INFO]: [WorldGuard] Loading region data...
+[06:23:54] [Server thread/INFO]: [UltraSetHome] Enabling UltraSetHome v1.7.9
+[06:23:56] [Server thread/INFO]: [DeadChest] Enabling DeadChest v4.21.1
+[06:23:56] [Server thread/INFO]: [ClearLag] Enabling ClearLag v3.2.2
+[06:23:56] [Server thread/INFO]: [ClearLag] Using version-adapter: LatestVersionAdapter
+[06:23:56] [Server thread/INFO]: [ClearLag] Loading modules...
+[06:23:56] [Server thread/WARN]: [ClearLag] Clearlag failed to use the internal TPS tracker during initialization. Reverted to estimation... (Index 3 out of bounds for length 3)
+[06:23:56] [Server thread/INFO]: [ClearLag] Modules enabed, loading config values
+[06:23:56] [Server thread/INFO]: [ClearLag] Modules have been loaded!
+[06:23:56] [Server thread/INFO]: [ClearLag] Clearlag is now enabled!
+[06:23:56] [Thread-13/WARN]: [ClearLag] Clearlag failed to check for updates - bukkit may be down
+[06:23:56] [Thread-13/WARN]: java.lang.ArrayIndexOutOfBoundsException: Index 3 out of bounds for length 3
+[06:23:56] [Thread-13/WARN]: 	at Clearlag.jar//me.minebuilders.clearlag.Util.getBukkitVersion(Util.java:105)
+[06:23:56] [Thread-13/WARN]: 	at Clearlag.jar//me.minebuilders.clearlag.BukkitUpdater.updateAvailable(BukkitUpdater.java:32)
+[06:23:56] [Thread-13/WARN]: 	at Clearlag.jar//me.minebuilders.clearlag.BukkitUpdater.run(BukkitUpdater.java:82)
+[06:23:56] [Thread-13/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[06:23:56] [Server thread/INFO]: [TreeAssist] Enabling TreeAssist v7.3.27
+[06:23:56] [Server thread/INFO]: [TreeAssist] sending full Metrics! You can deactivate this in the config.yml
+[06:23:56] [Server thread/INFO]: [TreeAssist] debugging: off
+[06:23:57] [Server thread/INFO]: [SimpleTpa] Enabling SimpleTpa v7.3
+[06:23:57] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
+[06:23:57] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been enabled on version 7.3
+[06:23:57] [Thread-14/INFO]: [TreeAssist] Checking for updates...
+[06:23:57] [Server thread/INFO]: Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
+[06:23:57] [Server thread/INFO]: [Minepacks] Enabling Minepacks v2.4.31.4-T20240629215752
+[06:23:57] [Server thread/INFO]: [Minepacks] Starting Minepacks in standalone mode!
+[06:23:57] [Server thread/INFO]: [Minepacks] Config file successfully loaded.
+[06:23:57] [Server thread/WARN]: [Minepacks] Paper support is experimental! Use at your own risk!
+[06:23:57] [Server thread/WARN]: [Minepacks] No guarantee for data integrity! Backup constantly!
+[06:23:57] [Server thread/INFO]: [Minepacks] Language file successfully loaded. Language: english  Author: GeorgH93
+[06:23:58] [Server thread/INFO]: [at.pcgamingfreaks.MinepacksStandalone.libs.com.zaxxer.hikari.HikariDataSource] Minepacks-Connection-Pool - Starting...
+[06:23:58] [Server thread/INFO]: [at.pcgamingfreaks.MinepacksStandalone.libs.com.zaxxer.hikari.HikariDataSource] Minepacks-Connection-Pool - Start completed.
+[06:23:58] [Server thread/INFO]: [Minepacks] Item name language file successfully loaded. Language: english  Author: GeorgH93
+[06:23:58] [Server thread/INFO]: [Minepacks] Loading item translations ...
+[06:23:58] [Server thread/INFO]: [Minepacks] Finished loading item translations for 826 items.
+[06:23:58] [Server thread/INFO]: [Minepacks]  Minepacks has been enabled!  :) 
+[06:23:58] [Server thread/INFO]: [Essentials] Enabling Essentials v2.20.1
+[06:23:58] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
+[06:24:00] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[06:24:00] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[06:24:00] [Server thread/INFO]: [Essentials] Loaded 39094 items from items.json.
+[06:24:00] [Server thread/INFO]: [Essentials] Using locale en
+[06:24:01] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[06:24:01] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[06:24:01] [Server thread/INFO]: [UltraSetHome] Essentials hooked successfully.
+[06:24:01] [Server thread/WARN]: [Essentials] Detected supported permissions plugin LuckPerms without Vault installed.
+[06:24:01] [Server thread/WARN]: [Essentials] Features such as chat prefixes/suffixes and group-related functionality will not work until you install Vault.
+[06:24:01] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[06:24:01] [Server thread/INFO]: [SilkSpawners] Enabling SilkSpawners v8.1.0
+[06:24:01] [Server thread/INFO]: [SilkSpawners] WorldGuard was found and support is enabled
+[06:24:01] [Server thread/INFO]: [SilkSpawners] Mimic was not found and support is disabled
+[06:24:01] [Server thread/INFO]: [SilkSpawners] Loading support for v1_21_R1
+[06:24:01] [Server thread/INFO]: [SilkSpawners] AutoUpdater is enabled and now running.
+[06:24:01] [Server thread/INFO]: [SilkSpawners] BarAPI is disabled due to config setting.
+[06:24:01] [Server thread/INFO]: [Shopkeepers] Enabling Shopkeepers v2.23.1
+[06:24:02] [Server thread/INFO]: [spark] Starting background profiler...
+[06:24:03] [Server thread/INFO]: [SuperEnchants] [STDOUT] Registering commands
+[06:24:03] [Server thread/INFO]: Done preparing level "world" (16.745s)
+[06:24:03] [Server thread/INFO]: Running delayed init tasks
+[06:24:03] [Server thread/INFO]: [UltraSetHome] WorldGuard hooked successfully.
+[06:24:03] [Server thread/INFO]: [SilkSpawners] Result from AutoUpdater is: NO_UPDATE
+[06:24:03] [Server thread/INFO]: Done (47.262s)! For help, type "help"
+[06:24:03] [Server thread/INFO]: Timings Reset
+[06:24:03] [Craft Scheduler Thread - 6 - Essentials/INFO]: [Essentials] Fetching version information...
+[06:24:03] [Server thread/INFO]: [UltraSetHome] You are using the latest version of UltraSetHome.
+[06:24:11] [User Authenticator #0/INFO]: UUID of player BionART is 295d9a43-d822-4f0f-8975-5c28c1a64cff
+[06:24:13] [Server thread/INFO]: BionART joined the game
+[06:24:14] [Server thread/INFO]: BionART[/127.209.99.56:51741] logged in with entity id 132 at ([world]-13.982114849713815, 77.0, 33.87946716512865)
+[06:24:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2512ms or 50 ticks behind
+[06:25:07] [User Authenticator #0/INFO]: UUID of player Mazzuworld is 253d4f90-fe0a-4348-b217-9f5848fa4898
+[06:25:09] [Server thread/INFO]: Mazzuworld joined the game
+[06:25:09] [Server thread/INFO]: Mazzuworld[/127.181.32.128:39111] logged in with entity id 331 at ([world]-10.352585444567639, 73.20000004768372, 41.785232686191556)
+[06:29:14] [Server thread/INFO]: Mazzuworld issued server command: /h mne
+[06:29:14] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[06:29:14] [Server thread/INFO]: Mazzuworld was blown up by Creeper
+[06:29:17] [Async Chat Thread - #2/INFO]: <BionART> xd
+[06:30:04] [Async Chat Thread - #2/INFO]: <BionART> zzzzzzzzzzzzzzz
+[06:30:05] [Async Chat Thread - #2/INFO]: <BionART> zzz
+[06:30:06] [Async Chat Thread - #2/INFO]: <BionART> z
+[06:30:07] [Async Chat Thread - #2/INFO]: <BionART> zzzzzzzzzzzzz
+[06:30:11] [Server thread/INFO]: BionART issued server command: /day
+[06:30:15] [Server thread/INFO]: Mazzuworld issued server command: /home
+[06:30:29] [Server thread/INFO]: Mazzuworld issued server command: /home
