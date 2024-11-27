@@ -298,3 +298,19 @@
 [06:30:11] [Server thread/INFO]: BionART issued server command: /day
 [06:30:15] [Server thread/INFO]: Mazzuworld issued server command: /home
 [06:30:29] [Server thread/INFO]: Mazzuworld issued server command: /home
+[06:33:56] [Server thread/INFO]: BionART issued server command: /xp give BionART 400l
+[06:37:49] [Server thread/INFO]: BionART issued server command: /invsee Mazzuworld
+[06:38:01] [Server thread/INFO]: BionART issued server command: /backpack open Mazzuworld
+[06:40:06] [Server thread/INFO]: Mazzuworld issued server command: /home
+[06:40:20] [Server thread/INFO]: Mazzuworld issued server command: /home
+[06:40:26] [Server thread/INFO]: Mazzuworld issued server command: /home
+[06:40:56] [Server thread/INFO]: BionART issued server command: /day
+[06:41:42] [Server thread/INFO]: Mazzuworld issued server command: /home
+[06:41:53] [Server thread/INFO]: Mazzuworld issued server command: /home
+[06:42:07] [Server thread/INFO]: BionART issued server command: /home
+[06:42:14] [Server thread/INFO]: Mazzuworld issued server command: /home
+[06:42:17] [Server thread/INFO]: Mazzuworld issued server command: /home
+[06:42:48] [Server thread/INFO]: BionART issued server command: /effect give Mazzuworld minecraft:slowness infinite 255 true
+[06:42:48] [Server thread/INFO]: [BionART: Applied effect Slowness to Mazzuworld]
+[06:43:12] [Server thread/INFO]: Mazzuworld issued server command: /home
+[06:43:22] [Server thread/INFO]: Mazzuworld issued server command: /home
