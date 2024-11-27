@@ -300,3 +300,12 @@
 [03:12:47] [Server thread/INFO]: BionART issued server command: /home tc
 [03:14:16] [Server thread/INFO]: BionART issued server command: /home
 [03:14:29] [Server thread/INFO]: BionART has made the advancement [Who Needs Rockets?]
+[03:22:40] [luckperms-command-executor/INFO]: [LP] Preparing a new editor session, please wait...
+[03:22:42] [luckperms-command-executor/INFO]: [LP] Click the link below to open the editor:
+[03:22:42] [luckperms-command-executor/INFO]: https://luckperms.net/editor/Ts4UNaX1Qo
+[03:26:47] [luckperms-command-executor/INFO]: [LP] Web editor data was applied to group default successfully.
+[03:26:47] [luckperms-command-executor/INFO]: [LP] (4 additions and 0 deletions)
+[03:26:47] [luckperms-command-executor/INFO]: +  silkspawners.craft (true)
+[03:26:47] [luckperms-command-executor/INFO]: +  silkspawners.free (true)
+[03:26:47] [luckperms-command-executor/INFO]: +  silkspawners.explodedrop (true)
+[03:26:47] [luckperms-command-executor/INFO]: +  silkspawners.destroydrop (true)
