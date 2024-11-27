@@ -3031,9 +3031,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2024-11-27 06:15:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2024-11-27 05:05:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2024-11-27 06:01:24 +0000"
     },
     "done": true
   },
@@ -3085,9 +3097,21 @@
     },
     "done": true
   },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2024-11-27 06:14:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_ingot": {
     "criteria": {
       "has_netherite_scrap": "2024-11-27 05:11:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2024-11-27 06:01:24 +0000"
     },
     "done": true
   },
@@ -3100,6 +3124,12 @@
   "minecraft:recipes/misc/iron_ingot_from_smelting_deepslate_iron_ore": {
     "criteria": {
       "has_deepslate_iron_ore": "2024-11-27 05:21:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2024-11-27 06:01:24 +0000"
     },
     "done": true
   },

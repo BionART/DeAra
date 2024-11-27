@@ -3813,5 +3813,17 @@
     },
     "done": true
   },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2024-11-27 06:01:07 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2024-11-27 06:13:18 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
