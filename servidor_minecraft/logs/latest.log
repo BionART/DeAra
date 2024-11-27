@@ -292,3 +292,6 @@
 [02:18:23] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
 [02:27:05] [Server thread/INFO]: BionART issued server command: /home
 [02:28:38] [Server thread/INFO]: BionART issued server command: /home
+[02:38:30] [Server thread/INFO]: BionART issued server command: /home tc
+[02:46:19] [Server thread/INFO]: BionART issued server command: /home tc
+[02:46:22] [Server thread/INFO]: BionART issued server command: /home
