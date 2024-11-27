@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.209.99.56
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1732435138013
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1732657115449
+  login: 1732656459668
+money: '0'
+last-account-name: BionART
+logoutlocation:
+  world: 8ae690a5-1b18-4c14-8bd4-ca1d0b687278
+  world-name: world
+  x: -22.179882020117308
+  y: 78.0
+  z: 48.05795051627189
+  yaw: -140.84906005859375
+  pitch: 30.995210647583008
+lastlocation:
+  world: 8ae690a5-1b18-4c14-8bd4-ca1d0b687278
+  world-name: world
+  x: 87.37728443438625
+  y: -40.0
+  z: 10.699999988079071
+  yaw: 84.8680648803711
+  pitch: 21.484697341918945

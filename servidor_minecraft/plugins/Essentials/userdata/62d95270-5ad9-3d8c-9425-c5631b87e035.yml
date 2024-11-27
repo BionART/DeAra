@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.181.32.128
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1732602304024
+  login: 1732602243132
+money: '0'
+last-account-name: Mazzuworld
+logoutlocation:
+  world: 8ae690a5-1b18-4c14-8bd4-ca1d0b687278
+  world-name: world
+  x: -33.67259857864598
+  y: 78.79673560066871
+  z: 35.50641098541413
+  yaw: 83.24992370605469
+  pitch: 17.400033950805664
