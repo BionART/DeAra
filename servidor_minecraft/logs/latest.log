@@ -355,3 +355,54 @@
 [05:01:30] [User Authenticator #4/INFO]: UUID of player Mazzuworld is 253d4f90-fe0a-4348-b217-9f5848fa4898
 [05:01:32] [Server thread/INFO]: Mazzuworld joined the game
 [05:01:32] [Server thread/INFO]: Mazzuworld[/127.181.32.128:56409] logged in with entity id 4845 at ([world]-8.69010608907824, 72.0, 57.00497143524175)
+[05:05:52] [Server thread/INFO]: BionART lost connection: Disconnected
+[05:05:52] [Server thread/INFO]: BionART left the game
+[05:05:54] [Server thread/INFO]: Mazzuworld lost connection: Disconnected
+[05:05:54] [Server thread/INFO]: Mazzuworld left the game
+[05:06:01] [Server thread/INFO]: Stopping the server
+[05:06:01] [Server thread/INFO]: Stopping server
+[05:06:01] [Server thread/INFO]: [Shopkeepers] Disabling Shopkeepers v2.23.1
+[05:06:01] [Server thread/INFO]: [SilkSpawners] Disabling SilkSpawners v8.1.0
+[05:06:01] [Server thread/INFO]: [Essentials] Disabling Essentials v2.20.1
+[05:06:01] [Server thread/INFO]: [Minepacks] Disabling Minepacks v2.4.31.4-T20240629215752
+[05:06:02] [Server thread/INFO]: [at.pcgamingfreaks.MinepacksStandalone.libs.com.zaxxer.hikari.HikariDataSource] Minepacks-Connection-Pool - Shutdown initiated...
+[05:06:02] [Server thread/INFO]: [at.pcgamingfreaks.MinepacksStandalone.libs.com.zaxxer.hikari.HikariDataSource] Minepacks-Connection-Pool - Shutdown completed.
+[05:06:02] [Server thread/INFO]: [Minepacks]  Minepacks has been disabled.  :( 
+[05:06:02] [Server thread/INFO]: [SimpleTpa] Disabling SimpleTpa v7.3
+[05:06:02] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
+[05:06:02] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been disabled on version 7.3
+[05:06:02] [Server thread/INFO]: [TreeAssist] Disabling TreeAssist v7.3.27
+[05:06:02] [Server thread/INFO]: [SuperEnchants] Disabling SuperEnchants v2.6.7
+[05:06:02] [Server thread/INFO]: [ClearLag] Disabling ClearLag v3.2.2
+[05:06:02] [Server thread/INFO]: [ClearLag] Clearlag is now disabled!
+[05:06:02] [Server thread/INFO]: [DeadChest] Disabling DeadChest v4.21.1
+[05:06:02] [Server thread/INFO]: [UltraSetHome] Disabling UltraSetHome v1.7.9
+[05:06:02] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.131
+[05:06:02] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[05:06:02] [Server thread/INFO]: [LuckPerms] Closing storage...
+[05:06:02] [Server thread/INFO]: [LuckPerms] Goodbye!
+[05:06:02] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.12+829a4a4
+[05:06:02] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
+[05:06:02] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.3.8+6939-7d32b45
+[05:06:02] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[05:06:02] [Server thread/INFO]: Saving players
+[05:06:02] [Server thread/INFO]: Saving worlds
+[05:06:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05:06:02] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[05:06:02] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[05:06:02] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[05:06:02] [Server thread/INFO]: [ChunkHolderManager] Saved 73 block chunks, 177 entity chunks, 0 poi chunks in world 'world' in 0.21s
+[05:06:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[05:06:02] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[05:06:02] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[05:06:02] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[05:06:03] [Server thread/INFO]: [ChunkHolderManager] Saved 118 block chunks, 83 entity chunks, 0 poi chunks in world 'world_nether' in 0.17s
+[05:06:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[05:06:03] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[05:06:03] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[05:06:03] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[05:06:03] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
+[05:06:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:06:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:06:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:06:03] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
