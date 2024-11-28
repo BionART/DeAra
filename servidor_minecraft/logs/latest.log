@@ -340,3 +340,18 @@
 [04:53:25] [Server thread/INFO]: BionART issued server command: /gamemode spectator
 [04:53:31] [Server thread/INFO]: BionART issued server command: /gamemode survival
 [04:54:21] [Server thread/INFO]: BionART issued server command: /day
+[04:58:22] [User Authenticator #3/INFO]: UUID of player Mazzuworld is 253d4f90-fe0a-4348-b217-9f5848fa4898
+[04:58:28] [Server thread/INFO]: Mazzuworld joined the game
+[04:58:28] [Server thread/INFO]: Mazzuworld[/127.181.32.128:58119] logged in with entity id 4216 at ([world]-15.699999988079071, -23.0, 5.300000011920929)
+[04:58:54] [Server thread/INFO]: Villager Villager['Cartographer'/4055, uuid='5f591be4-3f8e-4dc3-9d0d-b146fdb64d83', l='ServerLevel[world_nether]', x=5.99, y=129.19, z=-6.05, cpos=[0, -1], tl=216659, v=true] died, message: 'Cartographer suffocated in a wall'
+[04:59:06] [Async Chat Thread - #6/INFO]: <Mazzuworld> bro?
+[04:59:07] [Server thread/INFO]: BionART issued server command: /summon minecraft:villager
+[04:59:07] [Server thread/INFO]: [BionART: Summoned new Villager]
+[04:59:24] [Server thread/INFO]: Mazzuworld issued server command: /home
+[04:59:27] [Async Chat Thread - #6/INFO]: <BionART> aqui
+[05:01:23] [Server thread/WARN]: Mazzuworld was kicked for floating too long!
+[05:01:23] [Server thread/INFO]: Mazzuworld lost connection: Flying is not enabled on this server
+[05:01:23] [Server thread/INFO]: Mazzuworld left the game
+[05:01:30] [User Authenticator #4/INFO]: UUID of player Mazzuworld is 253d4f90-fe0a-4348-b217-9f5848fa4898
+[05:01:32] [Server thread/INFO]: Mazzuworld joined the game
+[05:01:32] [Server thread/INFO]: Mazzuworld[/127.181.32.128:56409] logged in with entity id 4845 at ([world]-8.69010608907824, 72.0, 57.00497143524175)
