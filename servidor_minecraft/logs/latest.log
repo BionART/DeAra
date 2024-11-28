@@ -323,3 +323,20 @@
 [04:44:11] [Server thread/INFO]: BionART issued server command: /gamemode survival
 [04:44:32] [Server thread/INFO]: BionART issued server command: /home
 [04:44:44] [Server thread/INFO]: BionART issued server command: /home netherarriba
+[04:47:00] [Server thread/INFO]: BionART issued server command: /heal Mazzuworld
+[04:48:19] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[04:48:19] [Server thread/INFO]: Mazzuworld was slain by BionART
+[04:48:22] [Async Chat Thread - #4/INFO]: <BionART> a
+[04:48:27] [Server thread/INFO]: BionART issued server command: /home
+[04:48:32] [Async Chat Thread - #4/INFO]: <BionART> jesu
+[04:48:34] [Async Chat Thread - #4/INFO]: <BionART> man
+[04:48:37] [Async Chat Thread - #4/INFO]: <BionART> manao
+[04:49:19] [Server thread/INFO]: Mazzuworld issued server command: /back
+[04:49:40] [Server thread/INFO]: Mazzuworld lost connection: Disconnected
+[04:49:40] [Server thread/INFO]: Mazzuworld left the game
+[04:50:57] [Server thread/INFO]: BionART issued server command: /home sp
+[04:51:06] [Server thread/INFO]: BionART issued server command: /gamemode spectator
+[04:51:24] [Server thread/INFO]: BionART issued server command: /gamemode survival
+[04:53:25] [Server thread/INFO]: BionART issued server command: /gamemode spectator
+[04:53:31] [Server thread/INFO]: BionART issued server command: /gamemode survival
+[04:54:21] [Server thread/INFO]: BionART issued server command: /day
