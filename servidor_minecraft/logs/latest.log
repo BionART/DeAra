@@ -283,3 +283,43 @@
 [04:29:24] [User Authenticator #0/INFO]: UUID of player BionART is 295d9a43-d822-4f0f-8975-5c28c1a64cff
 [04:29:26] [Server thread/INFO]: BionART joined the game
 [04:29:27] [Server thread/INFO]: BionART[/127.209.99.56:53375] logged in with entity id 99 at ([world]-11.393662001638244, 72.0, 12.14011675456223)
+[04:36:18] [User Authenticator #1/INFO]: UUID of player Mazzuworld is 253d4f90-fe0a-4348-b217-9f5848fa4898
+[04:36:24] [Server thread/INFO]: Mazzuworld joined the game
+[04:36:24] [Server thread/INFO]: Mazzuworld[/127.181.32.128:60995] logged in with entity id 986 at ([world]-4.790837863292097, 72.375, 17.56014663221872)
+[04:36:41] [Server thread/INFO]: BionART issued server command: /xp give BionART 400l
+[04:36:53] [Server thread/INFO]: BionART issued server command: /xp give BionART 10000000
+[04:36:57] [Server thread/INFO]: BionART issued server command: /xp give BionART 10000000l
+[04:36:59] [Server thread/INFO]: BionART issued server command: /xp give BionART 10000000l
+[04:37:01] [Server thread/INFO]: BionART issued server command: /xp give BionART 10000000l
+[04:37:02] [Server thread/INFO]: BionART issued server command: /xp give BionART 10000000l
+[04:37:03] [Server thread/INFO]: BionART issued server command: /xp give BionART 10000000l
+[04:37:03] [Server thread/INFO]: BionART issued server command: /xp give BionART 10000000l
+[04:37:04] [Server thread/INFO]: BionART issued server command: /xp give BionART 10000000l
+[04:37:05] [Server thread/INFO]: BionART issued server command: /xp give BionART 10000000l
+[04:37:05] [Server thread/INFO]: BionART issued server command: /xp give BionART 10000000l
+[04:37:06] [Server thread/INFO]: BionART issued server command: /xp give BionART 10000000l
+[04:37:06] [Server thread/INFO]: BionART issued server command: /xp give BionART 10000000l
+[04:37:07] [Server thread/INFO]: BionART issued server command: /xp give BionART 10000000l
+[04:37:07] [Server thread/INFO]: BionART issued server command: /xp give BionART 10000000l
+[04:37:08] [Server thread/INFO]: BionART issued server command: /xp give BionART 10000000l
+[04:41:30] [Server thread/WARN]: Mazzuworld was kicked for floating too long!
+[04:41:30] [Server thread/INFO]: Mazzuworld lost connection: Flying is not enabled on this server
+[04:41:30] [Server thread/INFO]: Mazzuworld left the game
+[04:41:39] [User Authenticator #2/INFO]: UUID of player Mazzuworld is 253d4f90-fe0a-4348-b217-9f5848fa4898
+[04:41:42] [Server thread/INFO]: Mazzuworld joined the game
+[04:41:42] [Server thread/INFO]: Mazzuworld[/127.181.32.128:38147] logged in with entity id 1849 at ([world]-0.9776533880469592, 73.84610397459554, 13.314069772151006)
+[04:41:47] [Server thread/WARN]: Mazzuworld was kicked for floating too long!
+[04:41:47] [Server thread/INFO]: Mazzuworld lost connection: Flying is not enabled on this server
+[04:41:47] [Server thread/INFO]: Mazzuworld left the game
+[04:41:54] [User Authenticator #2/INFO]: UUID of player Mazzuworld is 253d4f90-fe0a-4348-b217-9f5848fa4898
+[04:41:57] [Server thread/INFO]: Mazzuworld joined the game
+[04:41:57] [Server thread/INFO]: Mazzuworld[/127.181.32.128:44709] logged in with entity id 1891 at ([world]-0.9776533880469592, 73.541787147138, 13.314069772151006)
+[04:42:15] [Server thread/INFO]: BionART issued server command: /gamemode spectator
+[04:42:19] [Server thread/INFO]: BionART issued server command: /gamemode survival
+[04:42:31] [Server thread/INFO]: BionART issued server command: /sethome netherarriba
+[04:42:34] [Server thread/INFO]: BionART issued server command: /home
+[04:43:52] [Server thread/INFO]: BionART issued server command: /sethome netherabajo
+[04:44:03] [Server thread/INFO]: BionART issued server command: /gamemode spectator
+[04:44:11] [Server thread/INFO]: BionART issued server command: /gamemode survival
+[04:44:32] [Server thread/INFO]: BionART issued server command: /home
+[04:44:44] [Server thread/INFO]: BionART issued server command: /home netherarriba
