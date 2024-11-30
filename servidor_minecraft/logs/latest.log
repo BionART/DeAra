@@ -290,3 +290,28 @@
 [06:44:28] [Server thread/INFO]: Mazzuworld[/127.181.32.128:38977] logged in with entity id 1021 at ([world]-584.6332832148511, -50.0, -58.91859175058929)
 [06:47:44] [Server thread/INFO]: Mazzuworld issued server command: /tpa BionART
 [06:47:51] [Server thread/INFO]: BionART issued server command: /tpaccept
+[06:50:34] [Server thread/INFO]: BionART issued server command: /tpa Mazzuworld
+[06:50:36] [Server thread/INFO]: Mazzuworld issued server command: /tpaccept
+[06:51:00] [Server thread/INFO]: BionART issued server command: /tpa Mazzuworld
+[06:51:02] [Server thread/INFO]: Mazzuworld issued server command: /tpaccept
+[06:51:23] [Server thread/INFO]: Mazzuworld issued server command: /tpa BionARTç
+[06:51:25] [Server thread/INFO]: Mazzuworld issued server command: /tpa BionART
+[06:51:28] [Server thread/INFO]: BionART issued server command: /tpaccept
+[06:52:09] [Server thread/INFO]: BionART issued server command: /tpa Mazzuworld
+[06:52:11] [Server thread/INFO]: Mazzuworld issued server command: /tpaccept
+[06:53:30] [Server thread/INFO]: Mazzuworld issued server command: /tpa BionART
+[06:53:34] [Server thread/INFO]: BionART issued server command: /tpaccept
+[06:54:03] [Server thread/INFO]: BionART issued server command: /tpa Mazzuworld
+[06:54:05] [Server thread/INFO]: Mazzuworld issued server command: /tpaccept
+[06:55:16] [Server thread/INFO]: Mazzuworld issued server command: /sethome mine
+[06:55:19] [Server thread/INFO]: Mazzuworld issued server command: /home
+[06:57:51] [Server thread/INFO]: BionART lost connection: Disconnected
+[06:57:51] [Server thread/INFO]: BionART left the game
+[06:57:54] [Server thread/INFO]: Unknown or incomplete command, see below for error
+dfg<--[HERE]
+[06:57:55] [Server thread/INFO]: Unknown or incomplete command, see below for error
+dfg<--[HERE]
+[06:57:55] [Server thread/INFO]: Unknown or incomplete command, see below for error
+df<--[HERE]
+[06:57:56] [Server thread/INFO]: Unknown or incomplete command, see below for error
+gdfg<--[HERE]
