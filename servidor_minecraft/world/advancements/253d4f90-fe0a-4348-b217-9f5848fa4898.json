@@ -211,24 +211,29 @@
       "minecraft:blaze": "2024-11-24 07:13:02 +0000",
       "minecraft:pillager": "2024-11-30 07:17:12 +0000",
       "minecraft:skeleton": "2024-11-23 04:48:40 +0000",
-      "minecraft:zombified_piglin": "2024-11-23 07:57:15 +0000",
-      "minecraft:wither_skeleton": "2024-11-24 07:13:40 +0000",
+      "minecraft:ravager": "2024-11-30 08:31:03 +0000",
       "minecraft:ghast": "2024-11-24 07:30:29 +0000",
       "minecraft:hoglin": "2024-11-24 07:26:43 +0000",
+      "minecraft:breeze": "2024-11-24 05:26:13 +0000",
+      "minecraft:vindicator": "2024-11-30 08:29:30 +0000",
+      "minecraft:magma_cube": "2024-11-24 07:21:32 +0000",
+      "minecraft:spider": "2024-11-23 06:04:33 +0000",
+      "minecraft:piglin_brute": "2024-11-24 07:24:50 +0000",
+      "minecraft:creeper": "2024-11-23 06:17:29 +0000",
+      "minecraft:slime": "2024-11-23 06:04:58 +0000",
+      "minecraft:evoker": "2024-11-30 08:33:49 +0000",
+      "minecraft:zombified_piglin": "2024-11-23 07:57:15 +0000",
+      "minecraft:witch": "2024-11-30 08:32:08 +0000",
+      "minecraft:wither_skeleton": "2024-11-24 07:13:40 +0000",
       "minecraft:cave_spider": "2024-11-23 06:41:51 +0000",
       "minecraft:piglin": "2024-11-24 07:24:46 +0000",
-      "minecraft:breeze": "2024-11-24 05:26:13 +0000",
       "minecraft:stray": "2024-11-24 05:25:23 +0000",
       "minecraft:enderman": "2024-11-24 06:24:09 +0000",
       "minecraft:silverfish": "2024-11-24 06:13:09 +0000",
-      "minecraft:magma_cube": "2024-11-24 07:21:32 +0000",
       "minecraft:endermite": "2024-11-26 07:02:45 +0000",
-      "minecraft:spider": "2024-11-23 06:04:33 +0000",
-      "minecraft:piglin_brute": "2024-11-24 07:24:50 +0000",
+      "minecraft:vex": "2024-11-30 08:34:07 +0000",
       "minecraft:zombie": "2024-11-23 04:59:12 +0000",
-      "minecraft:creeper": "2024-11-23 06:17:29 +0000",
-      "minecraft:drowned": "2024-11-30 07:17:41 +0000",
-      "minecraft:slime": "2024-11-23 06:04:58 +0000"
+      "minecraft:drowned": "2024-11-30 07:17:41 +0000"
     },
     "done": false
   },
@@ -3199,6 +3204,18 @@
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_chestplate": "2024-11-30 07:28:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-11-30 08:29:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2024-11-30 08:25:41 +0000"
     },
     "done": true
   },
