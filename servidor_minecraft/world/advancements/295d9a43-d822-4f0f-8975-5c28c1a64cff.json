@@ -3874,21 +3874,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/lapis_lazuli_from_smelting_deepslate_lapis_ore": {
+  "minecraft:recipes/transportation/chest_minecart": {
     "criteria": {
-      "has_deepslate_lapis_ore": "2024-11-30 06:13:14 +0000"
+      "has_minecart": "2024-11-30 03:53:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2024-11-30 03:53:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2024-11-30 03:53:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2024-11-30 03:53:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2024-11-30 03:53:19 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/dye_blue_wool": {
     "criteria": {
       "has_needed_dye": "2024-11-30 04:02:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/chest_minecart": {
-    "criteria": {
-      "has_minecart": "2024-11-30 03:53:19 +0000"
     },
     "done": true
   },
@@ -3922,18 +3940,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/furnace_minecart": {
-    "criteria": {
-      "has_minecart": "2024-11-30 03:53:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/hopper_minecart": {
-    "criteria": {
-      "has_minecart": "2024-11-30 03:53:19 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
     "criteria": {
       "has_blue_dye": "2024-11-30 04:02:28 +0000"
@@ -3943,18 +3949,6 @@
   "minecraft:recipes/building_blocks/dye_blue_bed": {
     "criteria": {
       "has_needed_dye": "2024-11-30 04:02:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/tnt_minecart": {
-    "criteria": {
-      "has_minecart": "2024-11-30 03:53:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/lapis_lazuli_from_blasting_deepslate_lapis_ore": {
-    "criteria": {
-      "has_deepslate_lapis_ore": "2024-11-30 06:13:14 +0000"
     },
     "done": true
   },
@@ -3970,9 +3964,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/rail": {
+  "minecraft:recipes/misc/lapis_lazuli_from_smelting_deepslate_lapis_ore": {
     "criteria": {
-      "has_minecart": "2024-11-30 03:53:19 +0000"
+      "has_deepslate_lapis_ore": "2024-11-30 06:13:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli_from_blasting_deepslate_lapis_ore": {
+    "criteria": {
+      "has_deepslate_lapis_ore": "2024-11-30 06:13:14 +0000"
     },
     "done": true
   },
