@@ -309,3 +309,11 @@
 [04:11:54] [Server thread/INFO]: BionART issued server command: /home sp
 [04:22:47] [Server thread/INFO]: BionART issued server command: /home
 [04:25:50] [Server thread/INFO]: BionART issued server command: /home
+[04:34:13] [Server thread/INFO]: BionART issued server command: /home
+[04:35:10] [Server thread/INFO]: Mazzuworld issued server command: /home
+[04:36:17] [Server thread/INFO]: Mazzuworld issued server command: /home
+[04:36:48] [Server thread/INFO]: Mazzuworld lost connection: Disconnected
+[04:36:48] [Server thread/INFO]: Mazzuworld left the game
+[04:39:05] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[04:39:05] [Server thread/INFO]: BionART was shot by Skeleton
+[04:42:06] [Server thread/INFO]: BionART issued server command: /repair
