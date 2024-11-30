@@ -289,3 +289,9 @@
 [03:30:04] [Server thread/INFO]: Mazzuworld joined the game
 [03:30:04] [Server thread/INFO]: Mazzuworld[/127.181.32.128:55299] logged in with entity id 452 at ([world]-8.38424040760848, 77.0, 17.58167134560578)
 [03:32:59] [Server thread/INFO]: BionART issued server command: /invsee Mazzuworld
+[03:37:44] [Server thread/INFO]: Mazzuworld issued server command: /home
+[03:38:03] [Server thread/INFO]: Mazzuworld issued server command: /home
+[03:38:11] [Server thread/INFO]: BionART issued server command: /home
+[03:40:57] [Server thread/INFO]: BionART issued server command: /invsee Mazzuworld
+[03:41:58] [Server thread/INFO]: BionART issued server command: /home sp
+[03:47:16] [Server thread/INFO]: BionART issued server command: /home
