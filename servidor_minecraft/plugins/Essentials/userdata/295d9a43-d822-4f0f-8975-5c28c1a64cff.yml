@@ -16,18 +16,18 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1732949871895
+  logout: 1732957341687
   login: 1732949934929
 money: '0'
 last-account-name: BionART
 logoutlocation:
   world: 8ae690a5-1b18-4c14-8bd4-ca1d0b687278
   world-name: world
-  x: -696.6987178908663
-  y: -16.0
-  z: -96.6430966187543
-  yaw: 170.08255004882812
-  pitch: 14.474187850952148
+  x: -0.879175947589582
+  y: 74.0
+  z: 24.498899976200388
+  yaw: 48.687957763671875
+  pitch: 15.263389587402344
 lastlocation:
   world: 8ae690a5-1b18-4c14-8bd4-ca1d0b687278
   world-name: world
