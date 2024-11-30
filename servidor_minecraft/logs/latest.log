@@ -315,3 +315,19 @@ dfg<--[HERE]
 df<--[HERE]
 [06:57:56] [Server thread/INFO]: Unknown or incomplete command, see below for error
 gdfg<--[HERE]
+[06:58:53] [User Authenticator #2/INFO]: UUID of player BionART is 295d9a43-d822-4f0f-8975-5c28c1a64cff
+[06:58:54] [Server thread/INFO]: BionART joined the game
+[06:58:54] [Server thread/INFO]: BionART[/127.100.196.1:48379] logged in with entity id 3065 at ([world]-696.6987178908663, -16.0, -96.6430966187543)
+[06:59:10] [Server thread/INFO]: BionART issued server command: /home
+[07:03:39] [Server thread/INFO]: BionART issued server command: /gamemode creative
+[07:03:53] [Server thread/INFO]: BionART issued server command: /gamemode survival
+[07:04:30] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[07:04:30] [Server thread/INFO]: Mazzuworld was shot by BionART
+[07:04:35] [Server thread/INFO]: Mazzuworld issued server command: /back
+[07:06:08] [Async Chat Thread - #3/INFO]: <BionART> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[07:06:19] [Async Chat Thread - #3/INFO]: <BionART> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[07:06:24] [Async Chat Thread - #3/INFO]: <BionART> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[07:06:35] [Async Chat Thread - #3/INFO]: <BionART> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[07:06:38] [Async Chat Thread - #3/INFO]: <BionART> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[07:06:39] [Server thread/INFO]: BionART issued server command: /home
+[07:06:42] [Server thread/INFO]: Mazzuworld issued server command: /home
