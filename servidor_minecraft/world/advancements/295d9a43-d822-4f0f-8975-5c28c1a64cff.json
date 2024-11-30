@@ -20,6 +20,7 @@
       "minecraft:old_growth_birch_forest": "2024-11-23 07:35:46 +0000",
       "minecraft:deep_dark": "2024-11-24 06:25:12 +0000",
       "minecraft:ocean": "2024-11-23 07:28:29 +0000",
+      "minecraft:grove": "2024-11-30 06:11:45 +0000",
       "minecraft:meadow": "2024-11-25 02:08:49 +0000"
     },
     "done": false
@@ -3873,6 +3874,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_lazuli_from_smelting_deepslate_lapis_ore": {
+    "criteria": {
+      "has_deepslate_lapis_ore": "2024-11-30 06:13:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_blue_wool": {
     "criteria": {
       "has_needed_dye": "2024-11-30 04:02:28 +0000"
@@ -3942,6 +3949,12 @@
   "minecraft:recipes/transportation/tnt_minecart": {
     "criteria": {
       "has_minecart": "2024-11-30 03:53:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli_from_blasting_deepslate_lapis_ore": {
+    "criteria": {
+      "has_deepslate_lapis_ore": "2024-11-30 06:13:14 +0000"
     },
     "done": true
   },
