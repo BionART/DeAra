@@ -317,3 +317,5 @@
 [04:39:05] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
 [04:39:05] [Server thread/INFO]: BionART was shot by Skeleton
 [04:42:06] [Server thread/INFO]: BionART issued server command: /repair
+[04:57:36] [Server thread/INFO]: BionART issued server command: /home
+[04:57:51] [Server thread/INFO]: BionART issued server command: /home
