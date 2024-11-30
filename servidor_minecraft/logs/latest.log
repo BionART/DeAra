@@ -333,3 +333,12 @@
 [05:55:25] [Server thread/INFO]: BionART issued server command: /home
 [05:56:13] [Server thread/INFO]: BionART issued server command: /home
 [05:56:39] [Server thread/INFO]: Mazzuworld was slain by BionART
+[06:01:33] [Server thread/INFO]: BionART issued server command: /repair
+[06:01:36] [Server thread/INFO]: BionART issued server command: /repair
+[06:01:37] [Server thread/INFO]: BionART issued server command: /repair
+[06:01:44] [Server thread/INFO]: BionART issued server command: /repair
+[06:02:23] [Server thread/INFO]: BionART issued server command: /xp give BionART 461213l
+[06:04:35] [Server thread/INFO]: Mazzuworld issued server command: /home exp
+[06:04:42] [Server thread/INFO]: BionART issued server command: /tp BionART
+[06:04:48] [Server thread/INFO]: BionART issued server command: /tp Mazzuworld
+[06:04:57] [Server thread/WARN]: Mazzuworld moved wrongly!
